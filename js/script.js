@@ -14,7 +14,7 @@ function giveAkanName () {
     var validateGender = (gender !== "male" && gender !== "female");
 
 
-    if (year <= 0 ) {
+    if (year <= 1800 ) {
         alert("Invalid year");
     }
     else if (month <= 0 || month > 12) {
