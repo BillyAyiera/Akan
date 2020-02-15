@@ -53,16 +53,16 @@ body{
   }
   
 .fa:hover {
-      opacity: 0.8;
+      opacity: 0.5;
   }
   
 .fa-facebook {
-    background: #3B5998;
+    background:rgb(66,103,178);
     color: white;
   }
   
 .fa-twitter {
-    background: #55ACEE;
+    background: rgb(56,161,243);
     color: white;
   }
 
