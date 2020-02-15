@@ -24,8 +24,9 @@ section{
 }
 footer{
     background-color:brown;
-    padding-top: 0%;
-    padding-bottom: 7%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    text-align: center;
 }
 body{
     background-image: url(https://bit.ly/39BPszd);
