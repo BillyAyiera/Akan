@@ -13,7 +13,7 @@
 
 ## DESCRIPTION
 
-- This is a website that was inspired by the Ghananian way of determining `new-borns's first name`. Just by adding your `birthday date` , the site calculates the `day of the week` you were born and then depending on their gender outputs their Akan Name.
+- This is a website that was inspired by the Ghananian way of determining new-borns's first name. Just by adding your   birthday date, the site calculates the day of the week you were born and then depending on their gender outputs their Akan Name.
 
 ## Deployment
 
@@ -22,7 +22,7 @@
 
 ## BDD
 
-> The website will require a user to fill out information about his date of birth and the century he was was born.
+> The website will require a user to fill out information about her/his date of birth and the century she/he was was born.
 > The application calculates the day of the week the user was born and outputs it.
 > One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name.
 > The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
@@ -31,9 +31,9 @@
 
 ## Technologies Used
 - html
- - css
- - javascript
- - bootsrap 
+- css
+- javascript
+- bootsrap 
 
 ## Licence
 
