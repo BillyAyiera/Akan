@@ -17,7 +17,7 @@
 
 ## Deployment
 
-- You can vist the site directly by clicking [HERE](https://skimanikings.github.io/Akan-Names/)
+- You can vist the site directly by clicking [HERE](https://billyayiera.github.io/akan/)
 - To view the source codes on github click [HERE](https://github.com/BillyAyiera/akan)
 
 ## BDD
