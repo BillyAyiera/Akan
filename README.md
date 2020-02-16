@@ -9,7 +9,7 @@
 - Contacts
 - Author
 
-# AKAN NAMING SYSTEM
+# AKAN NAMING WEBSITE
 
 ## DESCRIPTION
 
