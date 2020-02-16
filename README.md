@@ -52,7 +52,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contacts
 
 - Incase of any feedback you can reach me through my personal contacts:
-
+- ayierabilly1@gmail.com
 
 ## Author
 
